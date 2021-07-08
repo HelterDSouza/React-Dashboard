@@ -62,6 +62,27 @@ export const userData = [
 
 ];
 
+export const productData = [
+    {
+        name: 'Jan',
+        sales: 5000,
+
+    },
+    {
+        name: 'Fev',
+        sales: 1000,
+
+    },
+    {
+        name: 'Mar',
+        sales: 2000,
+
+    }
+
+
+];
+
+
 export const userRows = [
     {
         id: 1,
@@ -102,7 +123,7 @@ export const productRows = [
     {
         id: 1,
         name: 'Apple Airpods',
-        img: 'https://image.shutterstock.com/shutterstock/photos/1628943679/display_1500/stock-photo-rostov-on-don-russia-december-apple-airpods-on-a-white-background-wireless-headphones-in-1628943679.jpg',
+        img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         stock: 123,
         price: "$5153.0",
         status:'active'
@@ -111,7 +132,7 @@ export const productRows = [
     {
         id: 2,
         name: 'Apple Airpods',
-        img: 'https://image.shutterstock.com/shutterstock/photos/1628943679/display_1500/stock-photo-rostov-on-don-russia-december-apple-airpods-on-a-white-background-wireless-headphones-in-1628943679.jpg',
+        img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         stock: 123,
         price: "$5153.0",
         status:'active'
@@ -120,7 +141,7 @@ export const productRows = [
     {
         id: 3,
         name: 'Apple Airpods',
-        img: 'https://image.shutterstock.com/shutterstock/photos/1628943679/display_1500/stock-photo-rostov-on-don-russia-december-apple-airpods-on-a-white-background-wireless-headphones-in-1628943679.jpg',
+        img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         stock: 123,
         price: "$5153.0",
         status:'active'
@@ -129,7 +150,7 @@ export const productRows = [
     {
         id: 4,
         name: 'Apple Airpods',
-        img: 'https://image.shutterstock.com/shutterstock/photos/1628943679/display_1500/stock-photo-rostov-on-don-russia-december-apple-airpods-on-a-white-background-wireless-headphones-in-1628943679.jpg',
+        img: "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         stock: 123,
         price: "$5153.0",
         status:'active'
