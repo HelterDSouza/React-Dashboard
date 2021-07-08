@@ -98,3 +98,43 @@ export const userRows = [
 
 
 ]
+export const productRows = [
+    {
+        id: 1,
+        name: 'Apple Airpods',
+        img: 'https://image.shutterstock.com/shutterstock/photos/1628943679/display_1500/stock-photo-rostov-on-don-russia-december-apple-airpods-on-a-white-background-wireless-headphones-in-1628943679.jpg',
+        stock: 123,
+        price: "$5153.0",
+        status:'active'
+        
+    },
+    {
+        id: 2,
+        name: 'Apple Airpods',
+        img: 'https://image.shutterstock.com/shutterstock/photos/1628943679/display_1500/stock-photo-rostov-on-don-russia-december-apple-airpods-on-a-white-background-wireless-headphones-in-1628943679.jpg',
+        stock: 123,
+        price: "$5153.0",
+        status:'active'
+        
+    },
+    {
+        id: 3,
+        name: 'Apple Airpods',
+        img: 'https://image.shutterstock.com/shutterstock/photos/1628943679/display_1500/stock-photo-rostov-on-don-russia-december-apple-airpods-on-a-white-background-wireless-headphones-in-1628943679.jpg',
+        stock: 123,
+        price: "$5153.0",
+        status:'active'
+        
+    },
+    {
+        id: 4,
+        name: 'Apple Airpods',
+        img: 'https://image.shutterstock.com/shutterstock/photos/1628943679/display_1500/stock-photo-rostov-on-don-russia-december-apple-airpods-on-a-white-background-wireless-headphones-in-1628943679.jpg',
+        stock: 123,
+        price: "$5153.0",
+        status:'active'
+        
+    },
+    
+
+]
